@@ -1,2 +1,1 @@
-# super-enigma
-Note taking app
+# Note Taker Starter Code
