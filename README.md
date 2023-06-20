@@ -31,4 +31,13 @@
   ## License
   Licensed under the [MIT](https://opensource.org/licenses/MIT) license
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+  ## Screenshots
+![picture of the start page](/public/assets/images/startpage.jpg)
+![picture of the notes page](/public/assets/images/notespage.jpg)
+![picture of adding a note](/public/assets/images/newnote.jpg)
+![picture of deleting notes](/public/assets/images/deletednotes.jpg)
   
+  ### GitHub Repository: https://github.com/ctowns5/super-enigma
+
+  ### Deployed Application: 
