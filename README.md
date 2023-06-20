@@ -11,10 +11,10 @@
   - [Questions](#Questions)
 
   ## Description
-  This application uses an Express.js back end and will save and retrieve note data from a JSON file.      It allows users to write and save notes.
+  This application uses an Express.js back end and will save and retrieve note data from a JSON file. It allows users to write and save notes.
 
   ## Usage
-  To use this app you can download or clone the code then in a ternimal type node server.js to start the back end. Then open a browser to the index.html in the public directory.
+  To use this app you can download or clone the code then in a ternimal type node server.js to start the back end. Then open a browser to http://localhost:3001
 
   ## Installation
   download or clone the repository.
